@@ -1,6 +1,6 @@
 # OpenCapsule
 
-<img src="OpenCapsule%20Logo%20V.b2.png" alt="logo" width="250px"/>
+<img src="opencapsule%20logo%20v.b2.svg" alt="logo" width="250px"/>
 
 (very early) open implementation of most of the Apple Airport Extreme Time Capsule's features
 
